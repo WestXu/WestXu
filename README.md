@@ -13,6 +13,7 @@
 ## Tech stack
 
 [![Python](https://img.shields.io/badge/python-mastery-brightgreen?&labelColor=3776AB&logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/Rust-mastery-brightgreen?&labelColor=000000&logo=rust&logoColor=white&style=for-the-badge)](https://www.rust-lang.org/)
 [![Git](https://img.shields.io/badge/git-mastery-brightgreen?&labelColor=F05032&logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
 [![VBA](https://img.shields.io/badge/VBA-mastery-brightgreen?&labelColor=D83B01&logo=Microsoft%20Excel&logoColor=white&style=for-the-badge)](https://docs.microsoft.com/en-us/office/vba/api/overview/)
 [![AHK](https://img.shields.io/badge/AHK-mastery-brightgreen?&labelColor=7D8084&logo=automatic&logoColor=white&style=for-the-badge)](https://www.autohotkey.com/)
