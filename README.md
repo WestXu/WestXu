@@ -1,6 +1,6 @@
 # West Xu
 
-⚡ **I’m currently working as a quantitative stock & crypto trader in Shanghai, China.**
+⚡ **I’m currently working as a quantitative stock & crypto trader in Singapore.**
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/WestXu?label=Follow&style=social)](https://github.com/WestXu)
