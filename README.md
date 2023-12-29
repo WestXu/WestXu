@@ -5,10 +5,8 @@
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/WestXu?label=Follow&style=social)](https://github.com/WestXu)
 [![WeChat](https://img.shields.io/badge/West--Xu-7BB32E?logo=wechat&logoColor=white&style=flat-square)]()
-[![Linkedin](https://img.shields.io/badge/-WestXu-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/来西-许-76876891/)
 [![Mail](https://img.shields.io/badge/-xu--lai--xi@live.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:xu-lai-xi@live.com)
 [![ZhiHu](https://img.shields.io/badge/许来西-0084FF?logo=zhihu&logoColor=white&style=flat-square)](https://www.zhihu.com/people/xu-lai-xi)
-[![ZhiHu](https://img.shields.io/badge/WestXu-7289DA?logo=discord&logoColor=white&style=flat-square)](https://www.zhihu.com/people/xu-lai-xi)
 
 ## Tech stack
 
